@@ -2,7 +2,12 @@
 .row.content {
     height: 550px
 }
-
+i {
+    color: gray;
+}
+.img-circle {
+    border-radius: 50%;
+}
 /* Set gray background color and 100% height */
 .sidenav {
     padding-top: 20px;
@@ -10,6 +15,14 @@
     background-color: #f1f1f1;
     height: 100%;
 }
+.custom-red {
+    color: #DD5555;
+}
+
+.shadow {
+    text-shadow: 1px 1px #ff0000;
+}
+
 div.icon {
     width: 90%;
     height: auto;
